@@ -1,6 +1,3 @@
-
-Voici le fichier README.md traduit et adapté en français :
-
 Backend GamesUP & API de Recommandation de Jeux
 
 Ce projet contient le backend de l'application GamesUP et une API de recommandation de jeux permettant de proposer des jeux aux utilisateurs en fonction de leurs préférences et de prédire les notes qu’ils pourraient attribuer.
